@@ -1,0 +1,15 @@
+/config/local.php
+/.env
+/.env.*
+!/.env.example
+/*.log
+/logs/
+/tmp/
+/backups/
+/test-artifacts/
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+/.idea/
+/.vscode/
